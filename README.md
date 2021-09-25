@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 -  My name is Anshika Maheshwari.
-   I am a first year CSE student.
-- 🌱 I’m currently learning Web Development
+   I am a B.Tech II year student.
+- 🌱 I’m currently learning Web Development.
 
  - 💌 [@anshi17505@gmail.com](mailto:anshi17505@gmail.com)
 - 📫 You can find me on [![LinkedIn][2.2]][2].
