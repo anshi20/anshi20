@@ -4,7 +4,7 @@
    I am a B.Tech II year student.
    
 <!---Image--->
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/14570649-Girl-sitting-at-the-table">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4671489/screenshots/14570649/media/e672ce4f512514d6ce7e72b41884884b.png">
 
 <!---Contact details--->
  - 💌 [@anshi17505@gmail.com](mailto:anshi17505@gmail.com)
