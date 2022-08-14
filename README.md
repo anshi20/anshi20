@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshi20)](https://git.io/streak-stats)
 
+[![Anshika's github activity graph](https://activity-graph.herokuapp.com/graph?username=anshi20)](https://github.com/anshi20/github-readme-activity-graph)
+
 
 
 
