@@ -1,8 +1,12 @@
 # Oh, Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 -  My name is Anshika Maheshwari.
    I am a B.Tech II year student.
+   
+<!---Image--->
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/14570649-Girl-sitting-at-the-table">
 
-
+<!---Contact details--->
  - 💌 [@anshi17505@gmail.com](mailto:anshi17505@gmail.com)
 - 📫 You can find me on [![LinkedIn][2.2]][2].
     
